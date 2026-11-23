@@ -2,7 +2,7 @@
 Standalone Beat Saber section cutter, 2-song mashup builder, and random Shaffuru Medley generator for Meta Quest using Termux, Python, and ffmpeg—creates playable custom maps with no PC.
 # Quest Beat Saber Mashup & Shaffuru Medley Cutter (`mashup_cutter.py`)
 
-Slice out practice sections, stitch two maps together into a custom mashup, or generate a **random multi-song Shaffuru Medley** directly on your Meta Quest headset using **Termux**, **Python**, and **`ffmpeg`**—no PC required.
+Slice out practice sections, stitch two maps together into a custom mashup, or generate a **random multi-song Shaffuru Medley** directly on your Meta Quest headset using **Termux**, **Python**, and **`ffmpeg`**, no PC required.
 
 ## Modes
 1. **Single Song Section Cut:** Extract any start/end timestamp slice of a map with full scoring enabled.
